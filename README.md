@@ -1,13 +1,13 @@
 # build-a-processor
-A project where I will build a multi-core processor an ALU, PORT IO, synced memory/data bus, and more!
+A project where I will build a 64-bit multi-core processor an ALU, PORT IO, synced memory/data bus, and more!
 
 ## Progress and Goals
 - ✅ Build gated latch
-- ✅ Build 1/8/64/256 bit register
+- ✅ Build 1/8/64 bit register
 - ✅ Register control and addressing logic
 - ✅ Build 8 bit ALU for AND, OR, XOR, and NOR operations
-- ✅ Build 1/8/64/256 bit full adder
-- 🔜 Expand ALU to 256 bit
+- ✅ Build 1/8/64 bit full adder
+- 🔜 Expand ALU to 64 bit
 - 🔜 Add ADD,SUB,MUL,DIV,SHIFT,ROTATE, and more operations to ALU
 - 🔜 Program counter
 - 🔜 Instruction register
