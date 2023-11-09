@@ -1,0 +1,38 @@
+ALU OPERATIONS
+
+========================
+====== ARITHMETIC ====== 
+========================
+1.  ADD UNSIGNED
+2.  ADD SIGNED
+3.  SUB UNSIGNED
+4.  SUB UNSIGNED
+5.  MULTPLY UNSIGNED
+6.  MULTIPLY SIGNED
+7.  DIVIDE UNSIGNED
+8.  DIVIDE SIGNED
+9.  SIGN INVERSION (flip sign bit)
+10. INCREMENT +1
+11. DECREMENT -1
+========================
+
+========================
+======= BITWISE ========
+========================
+12. BITWISE 2's COMPLEMENT
+13. LEFT SHIFT
+14. RIGHT SHIFT
+15. LEFT ROTATE
+16. RIGHT ROTATE
+17. BITWISE AND
+18. BITWISE OR
+19. BITWISE XOR
+20. BITWISE 
+========================
+
+========================
+====== COMPARISON ======
+========================
+21. COMPARE
+22. TEST
+23-32. RESERVED
