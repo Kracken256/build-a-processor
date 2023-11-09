@@ -1,20 +1,24 @@
 ALU OPERATIONS
 
+[NI] = Not Implemented
+
 ========================
 ====== ARITHMETIC ====== 
 ========================
 1.  ADD UNSIGNED
-2.  ADD SIGNED
+2.  [NI] ADD SIGNED
 3.  SUB UNSIGNED
-4.  SUB UNSIGNED
-5.  MULTPLY UNSIGNED
-6.  MULTIPLY SIGNED
+4.  [NI] SUB SIGNED
+5.  MULTIPLY UNSIGNED
+6.  [NI] MULTIPLY SIGNED
 7.  DIVIDE UNSIGNED
-8.  DIVIDE SIGNED
+8.  [NI] DIVIDE SIGNED
 9.  SIGN INVERSION (flip sign bit)
 10. INCREMENT +1
 11. DECREMENT -1
 ========================
+
+11
 
 ========================
 ======= BITWISE ========
